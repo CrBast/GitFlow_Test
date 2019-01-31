@@ -1,2 +1,2 @@
 # GitFlow_Test
-GitFlow test
+GitFlow [documentation](https://datasift.github.io/gitflow/IntroducingGitFlow)
